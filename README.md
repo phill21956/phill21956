@@ -1,4 +1,4 @@
-###<h1 align="center">Hi 👋, I'm Philip Inegbedion</h1>
+<h1 align="center">Hi 👋, I'm Philip Inegbedion</h1>
 <h3 align="center">An experienced Mobile App Developer and Web Designer. With a strong background in Word Press, Flutter &Dart</h3>
 
 - 🌱 I’m currently learning **Python, SQL**
