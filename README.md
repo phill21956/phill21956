@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Philip Inegbedion, Mobile App Developer and Web Designer. With a strong background in Word Press, Flutter &Dart 👨‍💻 🚀</div>  
+### <div align="center">I'm Philip Inegbedion</div>
+<div align="center">Mobile App Developer and Web Designer. With a strong background in Word Press, Flutter &Dart 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on various mobile app projects (https://github.com/phill21956?tab=repositories)  
