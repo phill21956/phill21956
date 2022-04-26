@@ -7,7 +7,9 @@
 <div align="center">Mobile App Developer and Web Designer. With a strong background in Word Press, Flutter &Dart 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on various mobile app projects (https://github.com/phill21956?tab=repositories)  
+- 🔭 I’m currently working on various mobile app projects (https://github.com/phill21956?tab=repositories) 
+
+- 🔭 Link to my portfolio's website (https://philipinegbedion.jimdofree.com/) 
   
 
 - 🌱 I’m currently learning Python, SQL  
