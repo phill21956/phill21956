@@ -94,7 +94,7 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phill21956&show_icons=true&locale=en&layout=compact" alt="phill21956" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phill21956/></p>
 
   
 
