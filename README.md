@@ -12,7 +12,7 @@
 - 🔭 Link to my portfolio's website (https://philipinegbedion.jimdofree.com/) 
   
 
-- 🌱 I’m currently learning Python, SQL  
+- 🌱 I’m currently learning Javascript,NodeJs  
   
 
 - ❓ Ask me about anything related to tech gadgets, movies and flutter🤓  
